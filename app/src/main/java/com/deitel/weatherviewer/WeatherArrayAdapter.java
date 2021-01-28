@@ -37,6 +37,7 @@ class WeatherArrayAdapter extends ArrayAdapter<Weather> {
    public WeatherArrayAdapter(Context context, List<Weather> forecast) {
       super(context, -1, forecast);
    }
+   //hola
 
    // creates the custom views for the ListView's items
    @Override
